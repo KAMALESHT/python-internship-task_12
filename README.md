@@ -9,19 +9,19 @@ task_12.py
 
 x={"Name":"KAMALESH"
 
-   ,"nickname":None,
+   ,"Nickname":None,
 
-    "age":20,
+    "Age":20,
 
    "Languages known":["tamil","english","hindi","telugu","french"],
 
-   "marks":{"math":90,"science":95,"english":94},
+   "Marks":{"math":90,"science":95,"english":94},
 
-   "percentage":92,
+   "Percentage":92,
 
-   "single":True,
+   "Single":True,
 
-   "hobbies":("reading books","playing games","listening to music")
+   "Hobbies":("reading books","playing games","listening to music")
 
     }
    
